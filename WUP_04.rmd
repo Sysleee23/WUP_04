@@ -66,3 +66,5 @@ Because the pvalue is less than 0.05 we reject the null hypothisis.
 par(mar = c(3, 8.7, 2, 2))
 plot(TukeyHSD(model1),las=2)
 ```
+based on the graph, there is a difference between high school graduates and also betrween less than and graduate.
+this is because neither one of them cross or touch the zero level. 
